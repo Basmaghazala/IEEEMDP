@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\mysystem\\IEEEMDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD7C839-146A-4422-AEC6-0000E3D25C66}|IEEEMDP\\IEEEMDP.vcxproj|G:\\mysystem\\IEEEMDP\\IEEEMDP\\IEEEMDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFD7C839-146A-4422-AEC6-0000E3D25C66}|IEEEMDP\\IEEEMDP.vcxproj|solutionrelative:IEEEMDP\\IEEEMDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEEEMDP.cpp",
+              "DocumentMoniker": "G:\\mysystem\\IEEEMDP\\IEEEMDP\\IEEEMDP.cpp",
+              "RelativeDocumentMoniker": "IEEEMDP\\IEEEMDP.cpp",
+              "ToolTip": "G:\\mysystem\\IEEEMDP\\IEEEMDP\\IEEEMDP.cpp*",
+              "RelativeToolTip": "IEEEMDP\\IEEEMDP.cpp*",
+              "ViewState": "AgIAAHAAAADAzczMzMwnwHcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T07:38:21.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
